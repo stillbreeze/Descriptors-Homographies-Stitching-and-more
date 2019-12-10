@@ -2,28 +2,31 @@
 
 -----------------------
 Keypoint features for can
-![Keypoint Features](can_features.png)
+
+<img src="can_features.png" width="400">
 
 -----------------------
 
-Feature Matching for can
+Feature matching for can
 
-![Feature Matching](can.png)
-
------------------------
-
-Feature Matching for book
-
-![Feature Matching](book.png)
+<img src="can.png" width="400">
 
 -----------------------
 
-Left and Right Image before stitching
-![Left and Right Image](incline_L.png) ![Feature Matching](incline_R.png)
+Feature matching for book
+
+<img src="book.png" width="400">
+
+-----------------------
+
+Left and right Image before stitching
+
+<img src="incline_L.png" width="400"> <img src="incline_R.png" width="400">
 
 -----------------------
 
 Stitched panoramic image
-![Stitched Image](stitch.jpg)
+<img src="stitch.jpg" width="700">
+
 
 -----------------------
